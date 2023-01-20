@@ -4,7 +4,7 @@ Noctis 🥂 Gruvbox-Material Colorscheme
 </h3>
 
 <p align="center">
-This neovim colorscheme is inspired by
+concoctis is inspired by
 <a href="https://github.com/wheredoesyourmindgo/gruvbox-concoctis-vscode-theme">gruvbox-concoctis</a>
 vscode theme with readability and functionality in mind </br>
 using <a href="https://github.com/sainnhe/gruvbox-material">gruvbox-material</a> palette and
