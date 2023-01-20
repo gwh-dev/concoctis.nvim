@@ -3,11 +3,10 @@ local highlights = require("concoctis.highlights")
 local M = {}
 
 M.config = {
-	strikethrough = true,
-	inverse = false,
 	override_colors = {},
 	override_highlights = {},
 	transparent = false,
+	dim_inactive = false,
 }
 
 function M.setup(config)
