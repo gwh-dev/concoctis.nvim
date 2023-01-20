@@ -5,7 +5,7 @@ local M = {}
 M.config = {
 	override_colors = {},
 	override_highlights = {},
-	transparent = false,
+	transparent = true,
 	dim_inactive = false,
 }
 

@@ -1,15 +1,15 @@
 local C = require("concoctis.palette").get_palette()
-local config = require("concoctis")
+local config = require("concoctis").config
 
 local M = {
-	normal = { fg = C.fg0, bg = C.bg4 },
+	normal = config.transparent and { fg = C.fg0, bg = nil } or { fg = C.fg0, bg = C.bg4 },
 
 	ellipsis = { fg = C.purple },
 	separator = { fg = C.orange },
 	modified = { fg = C.orange },
 
 	dirname = { fg = C.fg0 },
-	basename = { fg = C.fg0, bold = config.bold },
+	basename = { fg = C.fg0, bold = true },
 	context = { fg = C.fg0 },
 
 	-- Same keys as navic
