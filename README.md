@@ -6,8 +6,9 @@ Noctis 🥂 Gruvbox-Material Colorscheme
 <p align="center">
 This neovim colorscheme is inspired by
 <a href="https://github.com/wheredoesyourmindgo/gruvbox-concoctis-vscode-theme">gruvbox-concoctis</a>
-with some changes to make it better </br>
-using <a href="https://github.com/liviuschera/noctis">noctis</a> warm way to highlight and with <a href="https://github.com/sainnhe/gruvbox-material">gruvbox-material</a> palette</br>
+vscode theme with readability and functionality in mind </br>
+using <a href="https://github.com/sainnhe/gruvbox-material">gruvbox-material</a> palette and
+<a href="https://github.com/liviuschera/noctis">noctis</a> way to highlight, Every color variety have a dark version </br> 
 with the power of treesitter and lsp
 </p>
 
